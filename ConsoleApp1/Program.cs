@@ -1,2 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("My name is Kiet");
+﻿using ConsoleApp1.Session_01;
+
+Bài_tập_1.Main(args);

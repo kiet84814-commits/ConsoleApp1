@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Session 02\" />
+    <Compile Remove="Session 02\**" />
+    <EmbeddedResource Remove="Session 02\**" />
+    <None Remove="Session 02\**" />
   </ItemGroup>
 
 </Project>
