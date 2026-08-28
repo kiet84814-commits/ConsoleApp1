@@ -1,3 +1,3 @@
 ﻿using ConsoleApp1.Session_01;
 
-Bài_tập_1.Main(args);
+Bài_tập_2.Main(args);
