@@ -46,7 +46,7 @@ namespace ConsoleApp1.Session_01
             }
             Console.WriteLine($"Phí dịch vụ (0.5%): {phí:N0} VNĐ");
             Console.WriteLine($"Số tiền VND tính đổi:{vndthucte:N0}VNĐ ");
-            Console.WriteLine("số tiền nhận được:{result:F2");
+            Console.WriteLine($"Số tiền nhận được:{result:F2} {currency}");
         }
     }
 }
