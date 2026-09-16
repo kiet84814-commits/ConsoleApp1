@@ -13,4 +13,8 @@
     <None Remove="Session 02\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Session 01\Session 03 trên lớp 2\" />
+  </ItemGroup>
+
 </Project>
