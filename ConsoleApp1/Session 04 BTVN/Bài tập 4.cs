@@ -6,6 +6,23 @@ namespace ConsoleApp1.Session_04_BTVN
 {
     internal class Bài_tập_4
     {
+        public static long TinhGiaiThua(int n)
+        {
+            long result = 1;
+            for (int i = 1; i <= n; i++) 
+            {
+                result *= i;
+            }
+            return result;
+        }
+        public static void Main(string[] args)
+        {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine(" Nhập số nguyên n");
+            int n = int.Parse(Console.ReadLine());
+            long factorial = Session_04_BTVN.Bài_tập_4.TinhGiaiThua(n);
+            Console.WriteLine($"{n}!={factorial}");
+        }
 
-    }
+        }
 }
