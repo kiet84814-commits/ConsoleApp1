@@ -4,9 +4,11 @@ using System.Text;
 
 namespace ConsoleApp1.Session_04_BTVN
 {
-    internal class Bài_tập_6_lại
+    internal class Bài_tập_8_lại
     {
-        public static void
-    
+        public static int DemNguyenAm(string s)
+        {
+
+        }
     }
 }
