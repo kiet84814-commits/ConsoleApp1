@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1.Session_04_BTVN
 {
-    internal class Bài_tập_4
+    internal class Bài_tập_4_lại
     {
         public static long TinhGiaiThua(int n)
         {
@@ -20,9 +20,8 @@ namespace ConsoleApp1.Session_04_BTVN
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine(" Nhập số nguyên n");
             int n = int.Parse(Console.ReadLine());
-            long factorial = Session_04_BTVN.Bài_tập_4.TinhGiaiThua(n);
-            
+            long result = TinhGiaiThua(n);
+            Console.WriteLine($"Kết quả giai thừa là : {result}");
         }
-
         }
 }
