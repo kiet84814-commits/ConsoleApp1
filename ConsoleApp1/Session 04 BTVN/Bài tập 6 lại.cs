@@ -6,7 +6,7 @@ namespace ConsoleApp1.Session_04_BTVN
 {
     internal class Bài_tập_6_lại
     {
-        public static void
+       
     
     }
 }
