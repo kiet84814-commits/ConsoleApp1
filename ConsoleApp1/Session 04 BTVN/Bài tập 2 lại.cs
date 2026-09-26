@@ -10,7 +10,7 @@ namespace ConsoleApp1.Session_04_BTVN
         {
             return n % 2 == 0;
         }
-        public static void Main(string[] args)
+        public static void Main41(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Nhập số nguyên n");

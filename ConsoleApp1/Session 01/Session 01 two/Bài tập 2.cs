@@ -6,7 +6,7 @@ namespace ConsoleApp1.Session_01.Session_01_two
 {
     internal class Bài_tập_2
     {
-        public static void Main(string[] args)
+        public static void Main2(string[] args)
         {
             
         }

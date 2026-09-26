@@ -6,7 +6,7 @@ namespace ConsoleApp1.Session_01
 {
     internal class Bai_tap_7
     {
-        public static void Main(string[] args)
+        public static void Main28(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Đây là bài tập 7");

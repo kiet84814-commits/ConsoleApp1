@@ -6,7 +6,7 @@ namespace ConsoleApp1.Session_01.Session_03_trên_lớp
 {
     internal class Bài_tập_52
     {
-        public static void Main(string[] args)
+        public static void Main20(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Đây là bài tập 5");

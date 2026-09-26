@@ -6,7 +6,7 @@ namespace ConsoleApp1.Session_1_lại
 {
     internal class Bài_tập_4
     {
-        public static void Main(string[] args)
+        public static void Main35(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Nhập ngày sinh (dd/MM/yyyy): ");

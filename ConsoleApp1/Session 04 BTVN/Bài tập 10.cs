@@ -15,7 +15,7 @@ namespace ConsoleApp1.Session_04_BTVN
             }
     return sum / arr.Length;
         }
-        public static void Main(string[] args)
+        public static void Main40(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("nhập mảng số nguyên mẫu");

@@ -16,7 +16,7 @@ namespace ConsoleApp1.Session_04_BTVN
             }
             return count;
         }
-        public static void Main(string[] args)
+        public static void Main52(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine(" Nhập vào chuỗi ký tự ");

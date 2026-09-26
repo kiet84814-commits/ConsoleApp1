@@ -13,7 +13,7 @@ namespace ConsoleApp1.Session_01
     }
     public class Bài_tập_4
     {
-        public static void Main(string[] args)
+        public static void Main25(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Đây là bài tập 4");

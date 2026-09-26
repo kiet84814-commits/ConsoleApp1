@@ -6,7 +6,7 @@ namespace ConsoleApp1.Bài_tập_1_lại
 {
     internal class Bài_tập_1
     {
-        public static void Main(string[] args)
+        public static void Main32(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Nhập chỉ số điện cũ a");

@@ -21,7 +21,7 @@ namespace ConsoleApp1.Session_04_BTVN
             }
             return Max;
         }
-        public static void Main(string[] args)
+        public static void Main43(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Nhập số nguyên a");

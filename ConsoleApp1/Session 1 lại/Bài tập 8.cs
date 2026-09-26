@@ -6,7 +6,7 @@ namespace ConsoleApp1.Session_1_lại
 {
     internal class Bài_tập_8
     {
-        public static void Main(string[] args)
+        public static void Main37(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             string systemOTP = "839201";

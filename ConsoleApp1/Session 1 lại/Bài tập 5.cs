@@ -6,7 +6,7 @@ namespace ConsoleApp1.Session_1_lại
 {
     internal class Bài_tập_5
     {
-        public static void Main(string[] args)
+        public static void Main36(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Nhập điểm số môn lập trình c#");

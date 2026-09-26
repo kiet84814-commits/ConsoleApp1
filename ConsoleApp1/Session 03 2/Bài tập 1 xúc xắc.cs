@@ -7,7 +7,7 @@ namespace ConsoleApp1.Session_03_2
 {
     internal class Bài_tập_1_xúc_xắc
     {
-        public static void Main(string[] args)
+        public static void Main31(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine(" DICE RACE GAME");

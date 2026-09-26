@@ -16,7 +16,7 @@ namespace ConsoleApp1.Session_04_BTVN
             return result;
 
         }
-        public static void Main(string[] args)
+        public static void Main53(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             double x = 2;

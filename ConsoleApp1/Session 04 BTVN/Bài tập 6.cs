@@ -21,7 +21,7 @@ namespace ConsoleApp1.Session_04_BTVN
             }
             return true;
         }
-        public static void Main(string[] args)
+        public static void Main49(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine(" Nhập số nguyên n ");

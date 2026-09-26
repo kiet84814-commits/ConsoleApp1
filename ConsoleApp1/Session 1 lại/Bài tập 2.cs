@@ -7,7 +7,7 @@ namespace ConsoleApp1.Session_1_lại
 {
     internal class Bài_tập_2
     {
-        public static void Main(string[] args)
+        public static void Main33(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Nhập vào chiều cao");

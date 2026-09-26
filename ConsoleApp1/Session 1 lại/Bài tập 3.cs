@@ -15,7 +15,7 @@ namespace ConsoleApp1.Session_1_lại
 
 
         }
-        public static void Main(string[] args)
+        public static void Main34(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Nhập số tiền VNĐ");
