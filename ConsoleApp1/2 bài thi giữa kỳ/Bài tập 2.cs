@@ -76,5 +76,28 @@ namespace ConsoleApp1._2_bài_thi_giữa_kỳ
             Console.WriteLine($"Tổng doanh thu: {totalRevenue}");
 
         }
+        public static int CalculateOptimalCombo(int coffeeCount, int teaCount, int smoothieCount, double
+currentTotal)
+        {
+            double comboPrice1 = currentTotal;
+            double comboPrice2 = currentTotal;
+            int comboCount = 0;
+            if(coffeeCount==2 && teaCount==1)
+            {
+                 comboPrice1 = 100000;
+            }
+            else if(smoothieCount>3)
+            {
+                 comboPrice2 = currentTotal - 30000;
+            } 
+            if( comboPrice1 < comboPrice2)
+            {
+                return 1;
+            }
+            else
+            {
+                return 2;
+            }
         }
+    }
 }
