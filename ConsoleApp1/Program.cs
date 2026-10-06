@@ -1,1 +1,1 @@
-﻿ConsoleApp1.Session_3_lại.Bài_tập_3.Main(args);
+﻿ConsoleApp1.Bài_tập_vòng_lặp.Bài_tập_6.Main(args);

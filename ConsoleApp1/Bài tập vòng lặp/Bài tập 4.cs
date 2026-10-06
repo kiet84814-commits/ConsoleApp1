@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp1.Bài_tập_vòng_lặp
+{
+    internal class Bài_tập_4
+    {
+        public static long TinhGiaiThua(int n)
+        {
+            long tổng = 1;
+            for(int i=1;i<=n;i++)
+            {
+                tổng *= i;
+            }
+            return tổng;
+        }
+        public static void Main(string[] args)
+        {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine("Nhập số nguyên n");
+            int n= int.Parse(Console.ReadLine());
+            long result = TinhGiaiThua(n);
+            Console.WriteLine($"Kết quả là:{result}");
+        }
+        }
+}
